@@ -1,7 +1,7 @@
 # Speech-to-Text-to-Image-with-Kaldi-Toolkit-and-Stacked-GAN
 The misc folder contains some functions which are used in the training process.
 
-daraset.py, preprocess_birds.py and preprocess_flowers.py are used to preprocess the dataset. 
+datasets.py, preprocess_birds.py and preprocess_flowers.py are used to preprocess the dataset. 
 
 custom_ops.py contains the conv2d function, batch normalization function, eta, which are fine-tuned based on tensorflow's library function.
 
